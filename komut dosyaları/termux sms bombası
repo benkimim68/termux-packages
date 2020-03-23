@@ -1,0 +1,9 @@
+$pkg install git 
+$ pkg install python 2
+$  pip2 install requests git clone
+Bu kodları yazdığınızda biraz bekleyin, aralarda yükleme yapıyor. Yüklerken (Y/N) gibi sorular sorabilir. Y tuşuna basıp devam ediyoruz. Kolaylık açısından kopyala yapıştır yapabilirsiniz. Uygulamaya yazmaya başladığınız yerde $ işareti olduğundan siz kodları pkg install git  şeklinde kopyalayıp yapıştırınız.
+apt install  git
+$ git clone https://github.com/TheSpeedX/TBomb.git
+$ cd TBomb
+$ chmod +x TBomb.sh
+$ ./TBomb.sh
